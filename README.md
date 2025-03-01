@@ -8,19 +8,21 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering is a branch of engineering and computer science that deals with the application of a systematic and disciplined approach to the development of software that is reliable and works efficiently on machines.its important in that it enables the development of software applications and systems that are abstract and intagible that power various aspects of life.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-The  development of prioogframming languanges led to writikng of codes that were readable and edasy to cdebugg.
-the establishment of softare engineering as a discipline emphasized the use of structured methed to develop sotfware reducing its complexity.
-
+1.The  development of prioogframming languanges led to writikng of codes that were readable and edasy to cdebugg.
+2.The establishment of softare engineering as a discipline emphasized the use of structured methed to develop sotfware reducing its complexity.
+3.The rise of agile methodologies that emphasize on iterative development over rigid plannning. 
 List and briefly explain the phases of the Software Development Life Cycle.
-The developmengt 
+1.Analysis of user needs and requirements-the system designer gathers the user preferences on the software through interviews,questionares and surveys.
+2.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
-
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Software developer is responsible for programmming the software,debugging and implenting it.
+The quality assurance engineer looks up the  softaware to see if it of  good quality by designing and executing test plans.
+The project manager  oversees the entire process of software development which includes the planning,design,coding,execution and testing.
+Intergrated development environment are software siutes that provide comprehensive tools for writing,debugging and testing code,they include vs code and codeblocks.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
