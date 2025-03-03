@@ -34,6 +34,10 @@ version control sysytemsa are sokftware tools used to track changes in the sourc
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Tight deadlines-unrealistic timelines accompanied with pressure to deliver the software can be very stressful and can lead to rushed development and diminish the quality, to adddress this priotise tasks and clearly negotiate timelines with stakeholder with consideration of the workload.
+Changing requirements-frequently changing requirements can slow the developpment progress leading to delays,use  of agile methodologies and constant interaction and communication with users and stakeholders can be used to remedy this.
+Debugging and error correction-developing a software requires very many lines of codes this makes debugging difficult and time consuming,this also happens during testing where error detection and correction can be challenging,to overcome this use test units to detect errors in advance and automated testing tools like selenium.
+
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -45,5 +49,4 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 Define prompt engineering and discuss its importance in interacting with AI models.
 prompt engineering is a discipline that involves writing and crafting prompts and enquiries to AI models that short,concise and clear to get  the best responses. 
 
-
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effect
