@@ -41,12 +41,19 @@ Debugging and error correction-developing a software requires very many lines of
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit testing is the testing of individual components of the software to  identify and debbugs bugs early and is ussually done by the developer at the development phase.it helps modify the code in the case of a change in requirements.
+Intergration testing is testing how the different modules of the software work together,it detects intergration errors and reduce the risk of system failure once deployed.
+system testing-testing of the system and intergrated software as a whole to ensure everything works together as required.it is essential in detecting system wide issues that might not be detected during intergration.
+Acceptance testing-is testing of the software as awhole to ensure it meets the requirements specified at the beginning of the pproject and is ussually done by the client or user.it is essential for customer satisfaction and ensures readiness for production.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-prompt engineering is a discipline that involves writing and crafting prompts and enquiries to AI models that short,concise and clear to get  the best responses. 
+prompt engineering is a discipline that involves writing and crafting prompts and enquiries to AI models that are short,concise and clear to get  the best responses. 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effect
+vague prompt-explain farming
+improved prompt-explain rice farming in terms of farm inputs,tools,growth and harvest time
+The improved prompt is more efficient as it results in a more detgailed response of the rice farming area a person is interested in without having to pass through the content or theory of all plants planted in the whole world. 
